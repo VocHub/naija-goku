@@ -1,0 +1,117 @@
+/* Font Files:
+  -   ttf: 'Safari, Android, iOS'
+  - woff2: 'Super Modern Browsers'
+
+  Special thanks: 'Google Webfonts Helper' by majodev & web.dev {
+    https://github.com/majodev/google-webfonts-helper
+    https://web.dev/reduce-webfont-size/
+  }
+*/
+
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/lexend/woff2/400.woff2") format("woff2"),
+    url("/fonts/lexend/ttf/400.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/lexend/woff2/500.woff2") format("woff2"),
+    url("/fonts/lexend/ttf/500.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/lexend/woff2/700.woff2") format("woff2"),
+    url("/fonts/lexend/ttf/700.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/dm-sans/woff2/400.woff2") format("woff2"),
+    url("/fonts/dm-sans/ttf/400.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/dm-sans/woff2/400i.woff2") format("woff2"),
+    url("/fonts/dm-sans/ttf/400i.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/dm-sans/woff2/500.woff2") format("woff2"),
+    url("/fonts/dm-sans/ttf/500.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/dm-sans/woff2/500i.woff2") format("woff2"),
+    url("/fonts/dm-sans/ttf/500i.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/dm-sans/woff2/700.woff2") format("woff2"),
+    url("/fonts/dm-sans/ttf/700.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/dm-sans/woff2/700i.woff2") format("woff2"),
+    url("/fonts/dm-sans/ttf/700i.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Zen Maru Gothic";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/zen-maru-gothic/woff2/400.woff2") format("woff2"),
+    url("/fonts/zen-maru-gothic/ttf/400.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Zen Maru Gothic";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/zen-maru-gothic/woff2/500.woff2") format("woff2"),
+    url("/fonts/zen-maru-gothic/ttf/500.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Zen Maru Gothic";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/zen-maru-gothic/woff2/700.woff2") format("woff2"),
+    url("/fonts/zen-maru-gothic/ttf/700.ttf") format("truetype");
+}
